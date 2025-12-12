@@ -3,7 +3,7 @@
 موقع شخصي تعريفي (Portfolio) متجاوب وسريع، مصمم لعرض الأعمال والمهارات كمطور واجهات أمامية (Front-End Developer). يتميز الموقع بتصميم عصري وجذاب باللغة العربية.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Portfolio+Preview" alt="معاينة الموقع" width="100%" style="display: block; margin: 0 auto;">
+  <img src="مجلد الصور الشخصية/صورة الموقع.png" alt="معاينة الموقع" width="100%" style="display: block; margin: 0 auto;">
   <br>
   
   <h3>
