@@ -6,8 +6,8 @@
   <img src="https://via.placeholder.com/800x400?text=Portfolio+Preview" alt="معاينة الموقع" width="100%" style="display: block; margin: 0 auto;">
   <br>
   
-  <h3>
-    <a href="https://mohamednour-dev.github.io/My-personal-website/_هنا">🔗 اضغط هنا لزيارة الموقع (Live Demo)</a>
+ <h3>
+    <a href="https://mohamednour-dev.github.io/My-personal-website/">🔗 اضغط هنا لزيارة الموقع (Live Demo)</a>
   </h3>
 </p>
 
