@@ -8,7 +8,7 @@
   
   <h3>
     
-  <a href="https://mohamednour-dev.github.io/My-personal-website" target="_blank">اضغط هنا لزيارة الموقع 🔗 (Live Demo)</a> 
+  <a href="https://mohamednour-dev.github.io/My-personal-website/" target="_blank">اضغط هنا لزيارة الموقع 🔗 (Live Demo)</a> 
     
 </h3>
 </p>
