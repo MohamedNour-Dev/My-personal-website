@@ -174,7 +174,7 @@ h1 {
     font-size: 1.8rem;
     color: var(--text-gray);
     transition: 0.3s;
-}
+} 
 
 .icon.whatsapp:hover { color: #25D366; }
 .icon.telegram:hover { color: #0088cc; }
